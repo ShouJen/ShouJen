@@ -38,3 +38,7 @@
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href="www.anniver.cn">Anniver's Blog</a></li>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShouJen&show_icons=true&locale=en" alt="ShouJen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouJen&" alt="ShouJen" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShouJen&show_icons=true&locale=en&layout=compact" alt="ShouJen" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShouJen" alt="ShouJen" /></a></p>
